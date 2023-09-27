@@ -2474,7 +2474,10 @@
 		list-style: none;
 	}
 	
-	.client-logos + .client-logos { margin-top: -50px; }
+	.client-logos + .client-logos { 
+		margin-top: -50px; 
+		display: flex; 
+	}
 	
 	.client-logos li {
 		float: left; 

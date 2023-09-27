@@ -829,7 +829,7 @@
 		
 				// loader
 		
-		if(typeof $.fn.queryLoader2 != 'undefined'){
+		// if(typeof $.fn.queryLoader2 != 'undefined'){
 			
 			$("body").queryLoader2({
 				barColor: "#191919",
@@ -837,7 +837,7 @@
 				backgroundColor: "#fff"
 			});
 			
-		}
+		// }
 		
 		// Youtube video background
 		// https://github.com/pupunzi/jquery.mb.YTPlayer
